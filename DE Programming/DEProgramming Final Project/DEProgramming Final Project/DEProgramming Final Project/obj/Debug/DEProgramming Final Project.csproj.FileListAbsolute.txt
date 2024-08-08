@@ -1,0 +1,10 @@
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming Final Project.csproj.AssemblyReference.cache
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming_Final_Project.Form1.resources
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming_Final_Project.Properties.Resources.resources
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming Final Project.csproj.GenerateResource.cache
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\bin\Debug\DEProgramming Final Project.exe.config
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\bin\Debug\DEProgramming Final Project.exe
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\bin\Debug\DEProgramming Final Project.pdb
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming Final Project.exe
+C:\Users\Nemuel\source\repos\DEProgramming Final Project\DEProgramming Final Project\obj\Debug\DEProgramming Final Project.pdb
